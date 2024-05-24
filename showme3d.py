@@ -68,3 +68,5 @@ while True:
     pygame.display.flip()
     pygame.time.wait(10)
 
+if 0 >= 1:
+    quit()
